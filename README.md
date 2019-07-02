@@ -35,10 +35,16 @@ Such Dataframe will be the Key for the followin Gerat Radar Visulization
 
 ![Radar Chart](imgs/radar_plot.PNG)
 
+Such fabulous chart indicates how **Clusters** are more to buy from such **Category** 
+* Customers of **Cluster 0** are <b style="color:violet">highly biased</b> to buy products from **0 category**
+* Customers of **Cluster 1** are also impressed with **category 1** products
+* Customers of **Cluster 2** more to buy products from **category 3** than any other category
+
 # Finally
 ### We Do the Customer Classification
 
 models Used [`Support Vector Machine`, `Logostic Regression`,  `k-Nearest Neighbors`, `Decision Tree`, `Random Forest`, `Gradient Boosting`]
+
 Which Ends with ***87.38*** Prediction accuracy
 
 
