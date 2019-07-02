@@ -43,8 +43,8 @@ Such fabulous chart indicates how **Clusters** are more to buy from such **Categ
 # Finally
 ### We Do the Customer Classification
 
-models Used [`Support Vector Machine`, `Logostic Regression`,  `k-Nearest Neighbors`, `Decision Tree`, `Random Forest`, `Gradient Boosting`]
+models Used [`Support Vector Machine`, `Logostic Regression`,  `k-Nearest Neighbors`, `Decision Tree`, `Random Forest`, `Gradient Boosting`, `Ada Boost`]
 
-Which Ends with ***87.38*** Prediction accuracy
+Which Ends with ***87.38 %*** Prediction accuracy
 
 
